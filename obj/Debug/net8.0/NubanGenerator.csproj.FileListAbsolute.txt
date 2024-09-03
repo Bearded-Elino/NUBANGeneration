@@ -101,3 +101,4 @@ C:\Users\elija\Documents\NubanGenerator\obj\Debug\net8.0\refint\NubanGenerator.d
 C:\Users\elija\Documents\NubanGenerator\obj\Debug\net8.0\NubanGenerator.pdb
 C:\Users\elija\Documents\NubanGenerator\obj\Debug\net8.0\NubanGenerator.genruntimeconfig.cache
 C:\Users\elija\Documents\NubanGenerator\obj\Debug\net8.0\ref\NubanGenerator.dll
+C:\Users\elija\Documents\NubanGenerator\obj\Debug\net8.0\NubanGenerator.sourcelink.json

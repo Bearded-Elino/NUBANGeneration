@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NubanGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+162c5602140e2d4f6806ce5eb924d74e507b99b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NubanGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NubanGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

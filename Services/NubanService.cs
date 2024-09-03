@@ -68,7 +68,8 @@ namespace NubanGenerator.Services
     { "085", "Keystone Bank" },
     { "090", "JAIZ Bank" },
     { "301", "Bank of Agriculture" },
-    { "304", "Nigeria Export-Import Bank (NEXIM)" }
+    { "304", "Nigeria Export-Import Bank (NEXIM)" },
+    {"12345", "Microfinance Bank(MFB)"}
 };
 
     }

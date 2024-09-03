@@ -13,7 +13,7 @@ namespace NubanGenerator.Services
         string serialNumber = "";
         for (int i = 0; i < length; i++)
         {
-            serialNumber += random.Next(0, 10); // Generate a digit between 0 and 9
+            serialNumber += random.Next(0, 10);
         }
         return serialNumber;
     }
